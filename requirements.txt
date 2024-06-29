@@ -1,0 +1,11 @@
+faiss-cpu==1.8.*
+groq==0.9.*
+langchain-groq==0.1.*
+PyPDF2==3.0.*
+langchain_google_genai==1.0.*
+langchain==0.2.*
+streamlit==1.36.*
+langchain_community==0.2.*
+python-dotenv==1.0.*
+pypdf==4.2.*
+google-cloud-aiplatform>=1.38
